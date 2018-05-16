@@ -5,11 +5,13 @@ end
 
 row = "   |   |   "
 dash = "-----------"
-  def grid
+
+def grid
     puts row
     puts dash
     puts row
     puts dash
     puts row
-  end
+end
+
 puts grid
