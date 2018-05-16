@@ -11,6 +11,3 @@ puts dash
 puts row
 puts dash
 puts row
-
-
-
