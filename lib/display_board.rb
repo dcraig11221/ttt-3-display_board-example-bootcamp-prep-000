@@ -8,9 +8,5 @@ row = cell + divider + cell + divider + cell
 
 separator = "-----------"
 
-print row
-print separator
-print row
-print separator
-print row
+print row \n separator \n row \n separator \n row
 end
