@@ -4,7 +4,7 @@ def display_board
 cell = "   "
 divider = "|"
 row = cell + divider + cell + divider + cell
-print row
+# print row
 
 separator = "-----------"
 
