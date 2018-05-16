@@ -4,7 +4,14 @@ puts "A Tic Tac Toe Board"
 
 cell = "   "
 divider = "|"
-print cell + divider + cell + divider + cell
+row = cell + divider + cell + divider + cell
+print row
 
+separator = "-----------"
 
+print row
+print separator
+print row
+print separator
+print row
 end
