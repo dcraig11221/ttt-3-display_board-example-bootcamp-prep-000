@@ -8,4 +8,3 @@ print cell + divider + cell + divider + cell
 
 
 end
-   
