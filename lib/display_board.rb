@@ -7,10 +7,3 @@ cell = "   "
 divider = "|"
 row = [cell, divider, cell, divider, cell]
 print row
-
-puts row
-puts dash
-puts row
-puts dash
-puts row
-"
