@@ -9,3 +9,4 @@ row = [cell, divider, cell, divider, cell]
 print row
 
   end
+   
