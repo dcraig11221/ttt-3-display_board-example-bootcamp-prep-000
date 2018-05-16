@@ -3,7 +3,7 @@ def display_board
   puts "A Tic Tac Toe Board"
 
 
-cell = "   "
+    cell = "   "
 divider = "|"
 row = [cell, divider, cell, divider, cell]
 print row
